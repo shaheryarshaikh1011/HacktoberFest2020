@@ -1,4 +1,4 @@
-#Python Implementation of bubble Sort Algorithm
+#Python Implementation of insertion Sort Algorithm
 def insertion(alist):
     for i in range(1, len(alist)):
         temp = alist[i]
